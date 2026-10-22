@@ -1,0 +1,10 @@
+{
+  "name": "grunnleggende-programmering-vg1",
+  "version": "1.0.0",
+  "description": "Grunnleggende programmering i JavaScript for VG1",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
